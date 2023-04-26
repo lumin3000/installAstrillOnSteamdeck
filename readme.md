@@ -1,5 +1,7 @@
+
 1 Download astrill-setup-linux64.deb
 
+```
 # Allow to write over file system (steam os block)
 sudo steamos-readonly disable
 
@@ -27,3 +29,4 @@ sudo steamos-readonly disable
 
 #check dep
 Ldd /usr/bin/astrill
+```

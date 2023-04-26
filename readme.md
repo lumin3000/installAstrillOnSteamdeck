@@ -1,7 +1,7 @@
 
 1 Download astrill-setup-linux64.deb
 
-```
+```shell
 # Allow to write over file system (steam os block)
 sudo steamos-readonly disable
 
